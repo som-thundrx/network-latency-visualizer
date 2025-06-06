@@ -25,10 +25,4 @@ This tool is ideal for network diagnostics, connectivity checks, or monitoring t
 
 ---
 
-## 🚀 Getting Started
 
-### 1. Clone the repo
-
-```bash
-git clone https://github.com/som-thundrx/network-latency-visualizer.git
-cd network-latency-visualizer
