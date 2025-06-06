@@ -1,0 +1,7 @@
+google.com
+cisco.com
+cloudflare.com
+github.com
+example.com
+instagram.com
+berkshirehathaway.com
